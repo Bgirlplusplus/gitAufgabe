@@ -3,6 +3,6 @@
 echo 'Hello World';
 echo 'This is real life';
 
-$counter=0;
+$sum=0;
 ?>
 
